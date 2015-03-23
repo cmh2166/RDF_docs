@@ -1,0 +1,217 @@
+@prefix mads: <http://www.loc.gov/mads/rdf/v1#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+
+<http://lib.utk.edu/forms> a mads:MADSScheme ;
+	mads:hasTopMemberOfMADSScheme <http://lib.utk.edu/forms/http://vocab.getty.edu/aat/300026690> .
+
+<http://vocab.getty.edu/aat/300026690> a rdf:authority , rdf:topic , owl:ObjectProperty ;
+	mads:authoritativeLabel "albums (books)" ;
+	rdfs:label "albums (books)" .
+
+<http://lib.utk.edu/forms> mads:hasTopMemberOfMADSScheme <http://lib.utk.edu/forms/http://vocab.getty.edu/aat/300034787> .
+
+<http://vocab.getty.edu/aat/300034787> a rdf:authority , rdf:topic , owl:ObjectProperty ;
+	mads:authoritativeLabel "architectural drawings (visual works)" ;
+	rdfs:label "architectural drawings (visual works)" .
+
+<http://lib.utk.edu/forms> mads:hasTopMemberOfMADSScheme <http://lib.utk.edu/forms/http://vocab.getty.edu/aat/300028051> .
+
+<http://vocab.getty.edu/aat/300028051> a rdf:authority , rdf:topic , owl:ObjectProperty ;
+	mads:authoritativeLabel "books" ;
+	rdfs:label "books" .
+
+<http://lib.utk.edu/forms> mads:hasTopMemberOfMADSScheme <http://lib.utk.edu/forms/http://vocab.getty.edu/aat/300123430> .
+
+<http://vocab.getty.edu/aat/300123430> a rdf:authority , rdf:topic , owl:ObjectProperty ;
+	mads:authoritativeLabel "cartoons (humorous images)" ;
+	rdfs:label "cartoons (humorous images)" .
+
+<http://lib.utk.edu/forms> mads:hasTopMemberOfMADSScheme <http://lib.utk.edu/forms/http://vocab.getty.edu/aat/300026867> .
+
+<http://vocab.getty.edu/aat/300026867> a rdf:authority , rdf:topic , owl:ObjectProperty ;
+	mads:authoritativeLabel "clippings (information artifacts)" ;
+	rdfs:label "clippings (information artifacts)" .
+
+<http://lib.utk.edu/forms> mads:hasTopMemberOfMADSScheme <http://lib.utk.edu/forms/http://vocab.getty.edu/aat/300027275> .
+
+<http://vocab.getty.edu/aat/300027275> a rdf:authority , rdf:topic , owl:ObjectProperty ;
+	mads:authoritativeLabel "corporation reports" ;
+	rdfs:label "corporation reports" .
+
+<http://lib.utk.edu/forms> mads:hasTopMemberOfMADSScheme <http://lib.utk.edu/forms/http://vocab.getty.edu/aat/300026877> .
+
+<http://vocab.getty.edu/aat/300026877> a rdf:authority , rdf:topic , owl:ObjectProperty ;
+	mads:authoritativeLabel "correspondence" ;
+	rdfs:label "correspondence" .
+
+<http://lib.utk.edu/forms> mads:hasTopMemberOfMADSScheme <http://lib.utk.edu/forms/http://vocab.getty.edu/aat/300015387> .
+
+<http://vocab.getty.edu/aat/300015387> a rdf:authority , rdf:topic , owl:ObjectProperty ;
+	mads:authoritativeLabel "diagrams" ;
+	rdfs:label "diagrams" .
+
+<http://lib.utk.edu/forms> mads:hasTopMemberOfMADSScheme <http://lib.utk.edu/forms/http://vocab.getty.edu/aat/300033973> .
+
+<http://vocab.getty.edu/aat/300033973> a rdf:authority , rdf:topic , owl:ObjectProperty ;
+	mads:authoritativeLabel "drawings (visual works)" ;
+	rdfs:label "drawings (visual works)" .
+
+<http://lib.utk.edu/forms> mads:hasTopMemberOfMADSScheme <http://lib.utk.edu/forms/http://vocab.getty.edu/aat/300028881> .
+
+<http://vocab.getty.edu/aat/300028881> a rdf:authority , rdf:topic , owl:ObjectProperty ;
+	mads:authoritativeLabel "ephemera (general)" ;
+	rdfs:label "ephemera (general)" .
+
+<http://lib.utk.edu/forms> mads:hasTopMemberOfMADSScheme <http://lib.utk.edu/forms/http://vocab.getty.edu/aat/300028048> .
+
+<http://vocab.getty.edu/aat/300028048> a rdf:authority , rdf:topic , owl:ObjectProperty ;
+	mads:authoritativeLabel "filmstrips" ;
+	rdfs:label "filmstrips" .
+
+<http://lib.utk.edu/forms> mads:hasTopMemberOfMADSScheme <http://lib.utk.edu/forms/http://vocab.getty.edu/aat/300015578> .
+
+<http://vocab.getty.edu/aat/300015578> a rdf:authority , rdf:topic , owl:ObjectProperty ;
+	mads:authoritativeLabel "illustrations" ;
+	rdfs:label "illustrations" .
+
+<http://lib.utk.edu/forms> mads:hasTopMemberOfMADSScheme <http://lib.utk.edu/forms/http://vocab.getty.edu/aat/300028569> .
+
+<http://vocab.getty.edu/aat/300028569> a rdf:authority , rdf:topic , owl:ObjectProperty ;
+	mads:authoritativeLabel "manuscripts (document genre)" ;
+	rdfs:label "manuscripts (document genre)" .
+
+<http://lib.utk.edu/forms> mads:hasTopMemberOfMADSScheme <http://lib.utk.edu/forms/http://vocab.getty.edu/aat/300028094> .
+
+<http://vocab.getty.edu/aat/300028094> a rdf:authority , rdf:topic , owl:ObjectProperty ;
+	mads:authoritativeLabel "maps (documents)" ;
+	rdfs:label "maps (documents)" .
+
+<http://lib.utk.edu/forms> mads:hasTopMemberOfMADSScheme <http://lib.utk.edu/forms/http://vocab.getty.edu/aat/300027440> .
+
+<http://vocab.getty.edu/aat/300027440> a rdf:authority , rdf:topic , owl:ObjectProperty ;
+	mads:authoritativeLabel "minutes (administrative records) " ;
+	rdfs:label "minutes (administrative records) " .
+
+<http://lib.utk.edu/forms> mads:hasTopMemberOfMADSScheme <http://lib.utk.edu/forms/http://vocab.getty.edu/aat/300037316> .
+
+<http://vocab.getty.edu/aat/300037316> a rdf:authority , rdf:topic , owl:ObjectProperty ;
+	mads:authoritativeLabel "money" ;
+	rdfs:label "money" .
+
+<http://lib.utk.edu/forms> mads:hasTopMemberOfMADSScheme <http://lib.utk.edu/forms/http://vocab.getty.edu/aat/300263857> .
+
+<http://vocab.getty.edu/aat/300263857> a rdf:authority , rdf:topic , owl:ObjectProperty ;
+	mads:authoritativeLabel "moving images" ;
+	rdfs:label "moving images" .
+
+<http://lib.utk.edu/forms> mads:hasTopMemberOfMADSScheme <http://lib.utk.edu/forms/http://vocab.getty.edu/aat/300127173> .
+
+<http://vocab.getty.edu/aat/300127173> a rdf:authority , rdf:topic , owl:ObjectProperty ;
+	mads:authoritativeLabel "negatives (photographic)" ;
+	rdfs:label "negatives (photographic)" .
+
+<http://lib.utk.edu/forms> mads:hasTopMemberOfMADSScheme <http://lib.utk.edu/forms/http://vocab.getty.edu/aat/300311889> .
+
+<http://vocab.getty.edu/aat/300311889> a rdf:authority , rdf:topic , owl:ObjectProperty ;
+	mads:authoritativeLabel "objects" ;
+	rdfs:label "objects" .
+
+<http://lib.utk.edu/forms> mads:hasTopMemberOfMADSScheme <http://lib.utk.edu/forms/http://vocab.getty.edu/aat/300202595> .
+
+<http://vocab.getty.edu/aat/300202595> a rdf:authority , rdf:topic , owl:ObjectProperty ;
+	mads:authoritativeLabel "oral histories (document genres)" ;
+	rdfs:label "oral histories (document genres)" .
+
+<http://lib.utk.edu/forms> mads:hasTopMemberOfMADSScheme <http://lib.utk.edu/forms/http://vocab.getty.edu/aat/300033618> .
+
+<http://vocab.getty.edu/aat/300033618> a rdf:authority , rdf:topic , owl:ObjectProperty ;
+	mads:authoritativeLabel "paintings (visual works)" ;
+	rdfs:label "paintings (visual works)" .
+
+<http://lib.utk.edu/forms> mads:hasTopMemberOfMADSScheme <http://lib.utk.edu/forms/http://vocab.getty.edu/aat/300220572> .
+
+<http://vocab.getty.edu/aat/300220572> a rdf:authority , rdf:topic , owl:ObjectProperty ;
+	mads:authoritativeLabel "pamphlets" ;
+	rdfs:label "pamphlets" .
+
+<http://lib.utk.edu/forms> mads:hasTopMemberOfMADSScheme <http://lib.utk.edu/forms/http://vocab.getty.edu/aat/300026657> .
+
+<http://vocab.getty.edu/aat/300026657> a rdf:authority , rdf:topic , owl:ObjectProperty ;
+	mads:authoritativeLabel "periodicals" ;
+	rdfs:label "periodicals" .
+
+<http://lib.utk.edu/forms> mads:hasTopMemberOfMADSScheme <http://lib.utk.edu/forms/http://vocab.getty.edu/aat/300046300> .
+
+<http://vocab.getty.edu/aat/300046300> a rdf:authority , rdf:topic , owl:ObjectProperty ;
+	mads:authoritativeLabel "photographs" ;
+	rdfs:label "photographs" .
+
+<http://lib.utk.edu/forms> mads:hasTopMemberOfMADSScheme <http://lib.utk.edu/forms/http://vocab.getty.edu/aat/300026816> .
+
+<http://vocab.getty.edu/aat/300026816> a rdf:authority , rdf:topic , owl:ObjectProperty ;
+	mads:authoritativeLabel "postcards" ;
+	rdfs:label "postcards" .
+
+<http://lib.utk.edu/forms> mads:hasTopMemberOfMADSScheme <http://lib.utk.edu/forms/http://vocab.getty.edu/aat/300027221> .
+
+<http://vocab.getty.edu/aat/300027221> a rdf:authority , rdf:topic , owl:ObjectProperty ;
+	mads:authoritativeLabel "posters" ;
+	rdfs:label "posters" .
+
+<http://lib.utk.edu/forms> mads:hasTopMemberOfMADSScheme <http://lib.utk.edu/forms/http://vocab.getty.edu/aat/300264821> .
+
+<http://vocab.getty.edu/aat/300264821> a rdf:authority , rdf:topic , owl:ObjectProperty ;
+	mads:authoritativeLabel "printed ephemera" ;
+	rdfs:label "printed ephemera" .
+
+<http://lib.utk.edu/forms> mads:hasTopMemberOfMADSScheme <http://lib.utk.edu/forms/http://vocab.getty.edu/aat/300041273> .
+
+<http://vocab.getty.edu/aat/300041273> a rdf:authority , rdf:topic , owl:ObjectProperty ;
+	mads:authoritativeLabel "prints (visual works)" ;
+	rdfs:label "prints (visual works)" .
+
+<http://lib.utk.edu/forms> mads:hasTopMemberOfMADSScheme <http://lib.utk.edu/forms/http://vocab.getty.edu/aat/300247936> .
+
+<http://vocab.getty.edu/aat/300247936> a rdf:authority , rdf:topic , owl:ObjectProperty ;
+	mads:authoritativeLabel "record covers" ;
+	rdfs:label "record covers" .
+
+<http://lib.utk.edu/forms> mads:hasTopMemberOfMADSScheme <http://lib.utk.edu/forms/http://vocab.getty.edu/aat/300026685> .
+
+<http://vocab.getty.edu/aat/300026685> a rdf:authority , rdf:topic , owl:ObjectProperty ;
+	mads:authoritativeLabel "records (documents)" ;
+	rdfs:label "records (documents)" .
+
+<http://lib.utk.edu/forms> mads:hasTopMemberOfMADSScheme <http://lib.utk.edu/forms/http://vocab.getty.edu/aat/300026427> .
+
+<http://vocab.getty.edu/aat/300026427> a rdf:authority , rdf:topic , owl:ObjectProperty ;
+	mads:authoritativeLabel "scores" ;
+	rdfs:label "scores" .
+
+<http://lib.utk.edu/forms> mads:hasTopMemberOfMADSScheme <http://lib.utk.edu/forms/http://vocab.getty.edu/aat/300123013> .
+
+<http://vocab.getty.edu/aat/300123013> a rdf:authority , rdf:topic , owl:ObjectProperty ;
+	mads:authoritativeLabel "signs (declatory or advertising artifacts)" ;
+	rdfs:label "signs (declatory or advertising artifacts)" .
+
+<http://lib.utk.edu/forms> mads:hasTopMemberOfMADSScheme <http://lib.utk.edu/forms/http://vocab.getty.edu/aat/300028633> .
+
+<http://vocab.getty.edu/aat/300028633> a rdf:authority , rdf:topic , owl:ObjectProperty ;
+	mads:authoritativeLabel "sound recordings" ;
+	rdfs:label "sound recordings" .
+
+<http://lib.utk.edu/forms> mads:hasTopMemberOfMADSScheme <http://lib.utk.edu/forms/http://vocab.getty.edu/aat/300127478> .
+
+<http://vocab.getty.edu/aat/300127478> a rdf:authority , rdf:topic , owl:ObjectProperty ;
+	mads:authoritativeLabel "transparencies" ;
+	rdfs:label "transparencies" .
+
+<http://lib.utk.edu/forms> mads:hasTopMemberOfMADSScheme <http://lib.utk.edu/forms/http://vocab.getty.edu/aat/300028682> .
+
+<http://vocab.getty.edu/aat/300028682> a rdf:authority , rdf:topic , owl:ObjectProperty ;
+	mads:authoritativeLabel "video recordings" ;
+	rdfs:label "video recordings" .
